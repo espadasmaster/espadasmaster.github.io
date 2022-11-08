@@ -1,0 +1,57 @@
+﻿<!DOCTYPE html>
+<html lang="es-ES">
+           <head>
+                    <meta charset="utf-8">
+                    <title>Espadas</title>
+                    <link rel="stylesheet" href="estilos.css">
+                    
+           </heas>
+           <body> 
+              <audio controls>
+    <source src="Medieval music.mp3" type="audio/mp3">
+        Tu navegador no soporta audio HTML5.
+</audio>
+                  <div id="contenedor">
+                          <div id="cabecera">
+                                  <p>Espadones</p>
+                  </div>
+                  <div id="columnas">
+                          <div id="menu">
+                                         
+                                          <ul>
+                                                   
+                                                   <li><a href="espada larga.html"target="_blank">Espada larga</a></li>
+                                                   <li><a href="espada corta.html"target="_blank">Espada Corta</a></li>
+                                                   
+                                          
+                                          </ul>
+                                          
+                                          <ul> 
+                                               
+                                                   <img src="Zweihander one hand.gif" width="250" height="200" alt="Zweihander one hand.">
+                                                   
+                                          
+                                          </ul>
+                  </div>
+                  <div id="contenido">
+                          <h1 align="center"> ¿Que es un espadon?</h1>
+                          <p>Se le dice espadon a grandes espadas de la epoca medieval y renacentista</p>
+                          <h2 align="center">Espadon: Zweihander</h2>
+                          <p>La zweihander es una gran espada usada en la epoca renacentista, se usa a dos manos y es el significado de su nombre.Es un arma bastante famosa en diversas partes,incluso llegando al mundo del videojuego en distintas formas.</p>
+                          <p>Podía tener una longitud de hasta 180 cm de largo desde la base del pomo hasta la punta de la hoja, con unos 120 a 150 cm de hoja y de 30 a 45 cm de empuñadura. El peso podía oscilar entre 2 a 3,2 kg. Sin embargo, una Zweihänder ceremonial, que no era apropiada para el combate, podía llegar a pesar hasta 7 kg.
+
+También se fabricaron algunas más cortas, sobre todo en versiones más recientes, llegando a los 150 cm de longitud y 1,5 kg de peso.</p>
+                          <img src="Zweihander.jpg" width="300" height="230" alt="Zweihander.">
+                          <p>En la imagen se muestran algunas formas de la Zweihander.</p>
+                          <h2 align="center"> Curiosidades</h2>
+                          <p> La palabra "Espadon" tambien significa personaje de elevada jerarquía en la milicia, y, por, en otras jerarquías sociales.</p>
+                          <p> El termino espadon se a usado infinidad de veces en distintos medios, ya sea peliculas, videojuegos, libros, y un largo etcetera.</p>
+                          <p> La zweihander tambien es conocida como <U>Montante</U>.</p>
+                          <p> Quizás el más conocido de los usuarios de la Zweihänder sea <U>Pier Gerlofs Donia</U>, cuya habilidad, fuerza y eficacia con esta espada eran famosas. Incluso lograba decapitar a varias personas con un solo golpe. Su Zweihänder se exhibe en un museo frisón desde 2008. Tiene una longitud de 213 cm y un peso aproximado de 6,6 kg</p>
+
+                  </div>
+         </div>
+                  <div id="pie">
+                               <p>Contacto del Creador <U> Spardm@hotmail.com </U> Y la pagina donde es posible la compra de estas espadas <a href="https://www.espadasymas.com/espadas/" target="_blank">ESPADAYMAS</a)</p>
+         </body>
+</html>
